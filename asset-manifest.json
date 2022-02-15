@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/AnyLanguage-Wordle/static/css/main.151a03bd.css",
-    "main.js": "/AnyLanguage-Wordle/static/js/main.b779c052.js",
+    "main.js": "/AnyLanguage-Wordle/static/js/main.c0872b30.js",
     "static/js/787.c7ff90a0.chunk.js": "/AnyLanguage-Wordle/static/js/787.c7ff90a0.chunk.js",
     "static/media/BCSans-Bold.woff": "/AnyLanguage-Wordle/static/media/BCSans-Bold.252ecf87ea37c93b293c.woff",
     "static/media/BCSans-BoldItalic.woff": "/AnyLanguage-Wordle/static/media/BCSans-BoldItalic.73ed5137b2c4a42b754f.woff",
@@ -10,11 +10,11 @@
     "index.html": "/AnyLanguage-Wordle/index.html",
     "static/media/getFetch.cjs": "/AnyLanguage-Wordle/static/media/getFetch.c780682470504fffbd04.cjs",
     "main.151a03bd.css.map": "/AnyLanguage-Wordle/static/css/main.151a03bd.css.map",
-    "main.b779c052.js.map": "/AnyLanguage-Wordle/static/js/main.b779c052.js.map",
+    "main.c0872b30.js.map": "/AnyLanguage-Wordle/static/js/main.c0872b30.js.map",
     "787.c7ff90a0.chunk.js.map": "/AnyLanguage-Wordle/static/js/787.c7ff90a0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.151a03bd.css",
-    "static/js/main.b779c052.js"
+    "static/js/main.c0872b30.js"
   ]
 }
