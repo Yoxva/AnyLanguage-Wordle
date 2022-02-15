@@ -18,7 +18,6 @@ export const ORTHOGRAPHY = [
   't',
   'u',
   'v',
-  'w',
   'x',
   'y',
 ]
