@@ -1,7 +1,7 @@
 {
     "name": "Manean Wordle",
     "version": "0.1.0",
-    "homepage": "https://yoxva.github.io/AnyLanguage-Wordle",
+    "homepage": "https://yoxva.github.io/Ukito---Manean-Wordle",
     "private": true,
     "dependencies": {
         "@bcgov/bc-sans": "^1.0.1",
