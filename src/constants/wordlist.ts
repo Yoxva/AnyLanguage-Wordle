@@ -3,6 +3,7 @@ import { CONFIG } from './config'
 export const WORDS = [
   'řukva',
   'xongni',
+  'mvavi',
 ]
 
 if (CONFIG.normalization) {
